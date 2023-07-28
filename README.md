@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L370AvSrNFMAEiSAiJnGHGh4N6-7zrbj/view?usp=drive_link](https://drive.google.com/file/d/1L370AvSrNFMAEiSAiJnGHGh4N6-7zrbj/view?usp=drive_link)
 
-- ⚡ Fun fact **Why did the data scientist break up with statistics? They just couldn't find a good correlation.**
+- ⚡ Fun fact **Data scientists spend 80% of their time cleaning data and the other 20% of their time complaining about cleaning data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
