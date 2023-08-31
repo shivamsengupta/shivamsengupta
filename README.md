@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **SQL,PowerBI, Machine Learning, Mathematics**
 
-- 📫 How to reach me **shivamsengupta30@gmail.com**
+- 📫 How to reach me **shivamsengupta07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L370AvSrNFMAEiSAiJnGHGh4N6-7zrbj/view?usp=drive_link](https://drive.google.com/file/d/1L370AvSrNFMAEiSAiJnGHGh4N6-7zrbj/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YB8W7gZXYV2B_OYHqi2iAq0N5qAq976j/view?usp=sharing)
 
 - ⚡ Fun fact **Data scientists spend 80% of their time cleaning data and the other 20% of their time complaining about cleaning data.**
 
