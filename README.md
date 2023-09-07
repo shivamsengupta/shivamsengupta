@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivamsengupta07@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YB8W7gZXYV2B_OYHqi2iAq0N5qAq976j/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://shivamsengupta30.wixsite.com/data-driven)
 
 - ⚡ Fun fact **Data scientists spend 80% of their time cleaning data and the other 20% of their time complaining about cleaning data.**
 
